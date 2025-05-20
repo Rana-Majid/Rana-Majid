@@ -11,7 +11,7 @@
 - 🌱 I’m learning **customtkinter, pandas, and real-world data management**
 - 🛠️ I build tools for **inventory, order management, reports, and more**
 - 💬 Ask me about **Python, tkinter/customtkinter, and logic design**
-- 📫 Reach me at: **ranamajid.developer@gmail.com**
+- 📫 Reach me at: **info.creativehub1@gmail.com**
 - ⚡ Fun fact: I like to turn boring tasks into smart apps 😉
 
 ---
